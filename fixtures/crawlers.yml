@@ -484,6 +484,8 @@ Pingdom Bot:
   - Pingdom.com_bot_version_1.4_(http://www.pingdom.com/)
 Pinterest:
   - Mozilla/5.0 (compatible; Pinterestbot/1.0; http://www.pinterest.com/bot.html)
+Placid.app:
+  - placid.app/v1
 PocketParser:
   - PocketParser/2.0 (+https://getpocket.com/pocketparser_ua)
 PritTorrent:

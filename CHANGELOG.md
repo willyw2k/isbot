@@ -1,5 +1,12 @@
 # Changelog
 
+## 3.3.3
+-   Add Placid.app
+-   Internal formatting
+
+## 3.3.2
+-   Remove const keyword from build (Fix)
+
 ## 3.3.1
 -   Fix in type definition
 
