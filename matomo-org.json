@@ -532,5 +532,8 @@
   "Mozilla/5.0 (compatible; ThinkChaos/0.3.0; +In_the_test_phase,_if_the_ThinkChaos_brings_you_trouble,_please_add_disallow_to_the_robots.txt._Thank_you.)",
   "Mozilla/5.0 (compatible; DataForSeoBot/1.0; +https://dataforseo.com/dataforseo-bot)",
   "Mozilla/5.0 (compatible; Discordbot/2.0; +https://discordapp.com)",
-  "facebookcatalog/1.0"
+  "facebookcatalog/1.0",
+  "Mozilla/5.0 (compatible; Linespider/1.1; https://lin.ee/4dwXkTH)",
+  "Mozilla/5.0 (compatible; Cincraw/1.0; +http://cincrawdata.net/bot/)",
+  "CISPA Web Analyzer (https://notify.cispa.de)"
 ]
