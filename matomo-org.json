@@ -535,5 +535,10 @@
   "facebookcatalog/1.0",
   "Mozilla/5.0 (compatible; Linespider/1.1; https://lin.ee/4dwXkTH)",
   "Mozilla/5.0 (compatible; Cincraw/1.0; +http://cincrawdata.net/bot/)",
-  "CISPA Web Analyzer (https://notify.cispa.de)"
+  "CISPA Web Analyzer (https://notify.cispa.de)",
+  "IonCrawl (https://www.ionos.de/terms-gtc/faq-crawler-en/)",
+  "Crawldad (+https://gist.github.com/jayhardee9/2f2a2c4dba26564ee040ae32e0dd0972)",
+  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 ### This is a crawler for security.txt files. For more information visit https://securitytxt-scan.cs.hm.edu/ ###",
+  "Mozilla/5.0 (Linux; CentOS Linux release 7.4.1708) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36 (compatible; AdsBot-Naver/1.0; +http://searchad.naver.com)",
+  "Mozilla/5.0 (compatible; Google-Stale-Content-Probe; +http://www.google.com/bot.html)"
 ]
