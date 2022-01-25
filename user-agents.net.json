@@ -19895,5 +19895,10 @@
   "WordPress/5.8.3; https://fifibeaumonts.co.uk",
   "TuneIn Radio/18.1 (Android 30; SM-A217F; Java)",
   "GoogleAuth/1.4 (U316AT RP1A.200720.011); gzip,gzip(gfe),gzip(gfe)",
-  "libwww-perl/6.61"
+  "libwww-perl/6.61",
+  "WordPress/4.9.19; https://akce-kurzy-vzdelavani.cz",
+  "PHP-Curl-Class/9.5.1 (+https://github.com/php-curl-class/php-curl-class) PHP/7.2.34-13+ubuntu18.04.1+deb.sury.org+1 curl/7.58.0",
+  "WordPress/5.8.3; https://www.littleeggplanet.com",
+  "WordPress.com; https://www.littleeggplanet.com",
+  "Botbox TV/1.0 (Linux;Android 9.1) ExoPlayerLib/2.11.3"
 ]
