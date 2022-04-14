@@ -562,5 +562,10 @@
   "Mozilla/5.0 (compatible; um-LN/1.0; mailto: techinfo@ubermetrics-technologies.com)",
   "Mozilla/5.0 (compatible; Abonti/0.91 - http://www.abonti.com)",
   "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36; +collection@infegy.com",
-  "ALittle Client"
+  "ALittle Client",
+  "Hello, world",
+  "wp_is_mobile",
+  "HTTP Banner Detection (https://security.ipip.net)",
+  "Mozilla/5.0 (compatible; ev-crawler/1.0; +https://headline.com/legal/crawler)",
+  "webprosbot/2.0 (+mailto:abuse-6337@webpros.com)"
 ]
