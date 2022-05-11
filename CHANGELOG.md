@@ -1,5 +1,8 @@
 # Changelog
 
+## release-candidate
+-   More granular exports declaration for browser and node
+
 ## [3.4.7](https://github.com/omrilotan/isbot/compare/v3.4.6...v3.4.7)
 -   Add Zoom Webhook
 
