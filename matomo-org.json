@@ -569,5 +569,7 @@
   "Mozilla/5.0 (compatible; ev-crawler/1.0; +https://headline.com/legal/crawler)",
   "webprosbot/2.0 (+mailto:abuse-6337@webpros.com)",
   "0xAbyssalDoesntExist",
-  "ELB-HealthChecker/2.0"
+  "ELB-HealthChecker/2.0",
+  "Datadog/Synthetics",
+  "DatadogSynthetics"
 ]
