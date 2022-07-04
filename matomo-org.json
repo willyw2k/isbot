@@ -594,5 +594,6 @@
   "ias-jp/3.1 (+https://www.admantx.com/service-fetcher.html)",
   "KOCMOHABT (+https://kozmonavt.tk/) Mozilla/5.0 (compatible; Web Explorer 2)",
   "KOCMOHABT (https://kozmonavt.ml/) Mozilla/5.0 (Web Explorer)",
-  "CriteoBot/0.1 (+https://www.criteo.com/criteo-crawler/)"
+  "CriteoBot/0.1 (+https://www.criteo.com/criteo-crawler/)",
+  "PayPal IPN ( https://www.paypal.com/ipn )"
 ]
